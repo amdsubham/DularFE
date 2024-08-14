@@ -1,0 +1,44 @@
+[
+  {
+    "notificationId": "1",
+    "notificationType": "following",
+    "userInfo": {
+      "userId": "232",
+      "fullName": "Martin Amada",
+      "username": "martin_amada",
+      "profilePic": "https://www.stylecraze.com/wp-content/uploads/2018/05/4.-Bhumika-Arora.jpg"
+    },
+    "isFollowingStatus": false,
+    "created": 1711445183
+  },
+  {
+    "notificationId": "2",
+    "notificationType": "post_comment",
+    "userInfo": {
+      "userId": "232",
+      "fullName": "Martin Amada",
+      "username": "martin_amada",
+      "profilePic": "https://www.stylecraze.com/wp-content/uploads/2018/05/4.-Bhumika-Arora.jpg"
+    },
+    "postInfo": {
+      "postId": "1"
+    },
+    "isFollowingStatus": false,
+    "created": 1710926713
+  },
+  {
+    "notificationId": "3",
+    "notificationType": "post_like",
+    "userInfo": {
+      "userId": "232",
+      "fullName": "Martin Amada",
+      "username": "martin_amada",
+      "profilePic": "https://www.stylecraze.com/wp-content/uploads/2018/05/4.-Bhumika-Arora.jpg"
+    },
+    "postInfo": {
+      "postId": "1"
+    },
+    "isFollowingStatus": false,
+    "created": 1710840313
+  }
+]

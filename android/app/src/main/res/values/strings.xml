@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dular</string>
+    <string name="facebook_app_id">623920784989254</string>
+    <string name="facebook_client_token">09680f11bbcde4f1879d9a422a552202</string>
+    <string name="fb_auto_applink_scheme">fb623920784989254</string>
+    <string name="fb_login_protocol_scheme">623920784989254</string>
+</resources>

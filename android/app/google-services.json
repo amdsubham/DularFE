@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199327188569",
+    "firebase_url": "https://dular-c9983-default-rtdb.firebaseio.com",
+    "project_id": "dular-c9983",
+    "storage_bucket": "dular-c9983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199327188569:android:bcbcbdfa526f033f129348",
+        "android_client_info": {
+          "package_name": "com.santali.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199327188569-1p7a4eii9pedcv7jiaibm2hckhhsvuks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santali.dating",
+            "certificate_hash": "06b8bffad05f87da69842f02368dc32f592b4f11"
+          }
+        },
+        {
+          "client_id": "199327188569-kp597prpbvnbsa5o5gs56jqc7eqgook1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-6vNRm2PhSrXbBjYJ_KfLNeLCdQ8Xj5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199327188569-kp597prpbvnbsa5o5gs56jqc7eqgook1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

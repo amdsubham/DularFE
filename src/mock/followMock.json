@@ -1,0 +1,74 @@
+[
+  {
+    "userId": "1",
+    "fullName": "Martin Luthar",
+    "username": "martin.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaTX1R4s6Qmd_ePXdaUtfwmwT75ybiARk_g&usqp=CAU",
+    "isFollowingStatus": false
+  },
+  {
+    "userId": "2",
+    "fullName": "Jacob Luthar",
+    "username": "jacob.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeqObqS9UDC9yqhQ4Szz8k_xjb3gI6CjfJGA&usqp=CAU",
+    "isFollowingStatus": false
+  },
+  {
+    "userId": "3",
+    "fullName": "Alex Luthar",
+    "username": "Alex.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYJ9DxHR1Rll44xbcD9CgrH-pELwYdWWXgg&usqp=CAU",
+    "isFollowingStatus": false
+  },
+  {
+    "userId": "4",
+    "fullName": "Zor Luthar",
+    "username": "zor.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Lv2rYMcwkE2nHFS67YwGJXjKC9OSMSBoIg&usqp=CAU",
+    "isFollowingStatus": false
+  },
+  {
+    "userId": "5",
+    "fullName": "Glen Luthar",
+    "username": "glen.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn_O2ZU9ZmDN-NjhHn84Kd0dVhlCsIkhZDu8yAq_MX2mKXb659vK5aJ496ygFflHmAUog&usqp=CAU",
+    "isFollowingStatus": false
+  },
+  {
+    "userId": "6",
+    "fullName": "Roshan Luthar",
+    "username": "roshan.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9fMDIs6rYZ1WU6e9IIo0HZxz4DhzPaRM6ZVKRDNimsOQ1seggn8iJvQVUVFrzyD2i8Q&usqp=CAU",
+    "isFollowingStatus": false
+  },
+  {
+    "userId": "7",
+    "fullName": "Kat Luthar",
+    "username": "kat.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXy215w9nvxbQo3FXVbwo6dgfZqGxpaCjVsg&usqp=CAU",
+    "isFollowingStatus": false
+  },
+  {
+    "userId": "8",
+    "fullName": "Bill Luthar",
+    "username": "bill.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShfliAcG-H76nZcM4gVseSsZMgnhehuHTohg&usqp=CAU",
+    "isFollowingStatus": false
+  },
+  {
+    "userId": "9",
+    "fullName": "Aex Luthar",
+    "username": "aex.luthar",
+    "occupation": "Actor",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXy215w9nvxbQo3FXVbwo6dgfZqGxpaCjVsg&usqp=CAU",
+    "isFollowingStatus": false
+  }
+]
